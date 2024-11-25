@@ -16,7 +16,7 @@
     "litepie-datepicker": "^1.0.14",
     "notiwind": "^1.2.2",
     "twilio": "^3.67.1",
-    "vue": "^3.2.6",
+    "vue": "^3.2.33",
     "vue-router": "^4.0.11"
   },
   "devDependencies": {
