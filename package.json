@@ -15,7 +15,7 @@
     "libphonenumber-js": "^1.9.26",
     "litepie-datepicker": "^1.0.14",
     "notiwind": "^1.2.2",
-    "twilio": "^3.67.1",
+    "twilio": "^3.76.1",
     "vue": "^3.2.6",
     "vue-router": "^4.0.11"
   },
