@@ -10,7 +10,7 @@
   "dependencies": {
     "@supabase/supabase-js": "^1.22.5",
     "@sendgrid/mail": "^7.4.6",
-    "dayjs": "^1.10.6",
+    "dayjs": "^1.11.1",
     "dotenv": "^10.0.0",
     "libphonenumber-js": "^1.9.26",
     "litepie-datepicker": "^1.0.14",
